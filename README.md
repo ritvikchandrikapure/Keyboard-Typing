@@ -6,19 +6,19 @@ Happy is a playful, level-based typing practice web app that helps users improve
 ## 📸 UI Screenshots
 
 ### 🏠 Home Page
-![Happy Home Page](./screenshots/home.png)
+![Happy Home Page](./src/images/typing1.png)
 
 ### 🗺️ Level Map
-![Typing Lesson Map](./screenshots/level-map.png)
+![Typing Lesson Map](./src/images/typing2.png)
 
 ### ⌨️ Typing Practice
-![Typing Practice Screen](./screenshots/typing-practice.png)
+![Typing Practice Screen](./src/images/typing3.png)
 
 ### 🏆 Results
-![Typing Round Results](./screenshots/results.png)
+![Typing Round Results](./src/images/typing4.png)
 
 ### 📊 Performance Analytics
-![Typing Speed Chart and Coach Feedback](./screenshots/performance-analytics.png)
+![Typing Speed Chart and Coach Feedback](./src/images/typing5.png)
 
 ## ✨ Features
 
